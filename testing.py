@@ -1,1 +1,1 @@
-print("hi ,this is omiii",HAPPY BIRTHDAY!!!!! OM🎂)
+print("hi ,this is omiii",HAPPY BIRTHDAY!!!!! OM)
